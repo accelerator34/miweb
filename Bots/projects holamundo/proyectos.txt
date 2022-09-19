@@ -1,0 +1,7 @@
+App 1 : Chat Bot Conocidos
+App 2 : Bus Bot Recorridos
+App 3 : Web Scrapper
+App 4 : Eventos Grupales 
+App 5 : Tracker CriptoMoneda
+App 6 : Tendencia Inversiones
+App 7 : Juego de Rol 

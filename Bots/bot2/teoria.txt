@@ -1,0 +1,6 @@
+.moveTO()
+.click()
+.doubleClick()
+.write("")
+time.sleep()
+

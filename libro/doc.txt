@@ -1,0 +1,19 @@
+llave de activacion de pildoras info:
+pjXLgHXVzzdYGAfALwGIuJElGJhgocEK
+acceleratornara@gmail.com
+codememes777
+
+
+
+
+depurador:
+
+·        Go - Ejecuta el resto del código normalmente, o hasta que alcanza un punto de quiebre (break, que será descripto luego).
+
+·        Step - Ejecuta una línea de código. Si la línea es una llamada a una función, el depurador ingresará dentro de la función.
+
+·        Over - Ejecuta una línea de código. Si la línea es una llamada a una función, el depurador no ingresará dentro de la función.
+
+·        Out - Ejecuta líneas de código hasta que el depurador salga de la función en la que estaba cuando se presionó Out. Esto sale de la función.
+
+·        Quit - Termina el programa inmediatamentes

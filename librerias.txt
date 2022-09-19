@@ -1,0 +1,34 @@
+pygame:Creo que el nombre indica en que se espezializa esa libreria, de tarea hacer almenos 2 ejercicio con ella.
+
+Requests:Eesta libreria nos permite realizar peticiones http, sin muchas complicaciones, y es muy util si a consumir servicios web se refiere, hacer 2 ejercicio con ella.
+
+Pillow:Con esta libreria podemos configurar imagenes de una forma sencilla, hacer 2 ejercicios con ella.
+
+sqlAlchemy:Es una libreria que nos permite trabajar con las bases de datos mediante objetos es decir ORM(investigar que significa) hacer 2 ejercicios con ella.
+
+Peewee:Al igual que sqlAlchemy, Peewee es un ORM que nos permite trabajar con diferents gestores de bases de datos, el tipo recomienda usarla por si estas empezando y que si te la sabes
+aprender django se te facilitara, aprender al completo o tratar de aprender e sta libreria.
+
+Re:apaodemos trabajar expresiones regulares, podemos crearlas y tambien aplicarlas, si se necesita validar algun correo electronico el dice que es mejor hacerlo con Re, tratar de aprender esta tambien.
+
+Collections:Esta libreria nos permite trabajar con: Listas,Diccionarios,Tuplas, y otras estructuras de datos, hacer 2 ejercicios con ella. 
+
+Comentarios:
+
+Mi top 10 de Python packages: 
+- OpenCV > PIL
+- NumPy + SciPy
+- Requests
+- Pandas
+- Keras (sobre tf)
+- scikit-learn
+- Matplotlib + Seaborn
+- Flask
+- Selenium
+- re + glob + otro par más de las ya incluidas
+
+
+Mis favoritas son Collections,itertools,matplotlib y numpy
+
+
+Alguien me explica la diferencia entre : Framework , librería , módulo y paquetes ? :S
